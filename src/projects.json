@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "screenshot": "",
+    "code": "https://github.com/CodeSurfer3022/Rock-Paper-Scissors-2",
+    "live": "https://codesurfer3022.github.io/Rock-Paper-Scissors-2/",
+    "name": "Rock, Paper, Scissors",
+    "description": ""
+  },
+  {
+    "id": 2,
+    "screenshot": "",
+    "code": "https://github.com/CodeSurfer3022/Etch-a-Sketch",
+    "live": "https://codesurfer3022.github.io/Etch-a-Sketch/",
+    "name": "Etch-a-Sketch",
+    "description": ""
+  },
+  {
+    "id": 3,
+    "screenshot": "",
+    "code": "https://github.com/CodeSurfer3022/calculator",
+    "live": "https://codesurfer3022.github.io/calculator/",
+    "name": "Calculator",
+    "description": ""
+  },
+  {
+    "id": 4,
+    "screenshot": "",
+    "code": "https://github.com/CodeSurfer3022/Pomodoro-timer",
+    "live": "https://codesurfer3022.github.io/Pomodoro-timer/",
+    "name": "Pomodoro",
+    "description": ""
+  },
+  {
+    "id": 5,
+    "screenshot": "",
+    "code": "https://github.com/CodeSurfer3022/Library-3",
+    "live": "https://codesurfer3022.github.io/Library-3/",
+    "name": "Library",
+    "description": ""
+  },
+  {
+    "id": 6,
+    "screenshot": "",
+    "code": "https://github.com/CodeSurfer3022/Tic-Tac-Toe",
+    "live": "https://codesurfer3022.github.io/Tic-Tac-Toe/",
+    "name": "Tic Tac Toe",
+    "description": ""
+  },
+  {
+    "id": 7,
+    "screenshot": "",
+    "code": "https://github.com/CodeSurfer3022/Restaurant-page",
+    "live": "https://codesurfer3022.github.io/Restaurant-page/",
+    "name": "Restaurant",
+    "description": ""
+  },
+  {
+    "id": 8,
+    "screenshot": "",
+    "code": "https://github.com/CodeSurfer3022/New-todo-list",
+    "live": "https://codesurfer3022.github.io/New-todo-list/",
+    "name": "Todo list",
+    "description": ""
+  },
+  {
+    "id": 9,
+    "screenshot": "",
+    "code": "https://github.com/CodeSurfer3022/Image-slider",
+    "live": "https://codesurfer3022.github.io/Image-slider/",
+    "name": "Carousel",
+    "description": ""
+  },
+  {
+    "id": 10,
+    "screenshot": "",
+    "code": "",
+    "live": "",
+    "name": "Dropdown package",
+    "description": ""
+  },
+  {
+    "id": 11,
+    "screenshot": "",
+    "code": "",
+    "live": "",
+    "name": "Popup package",
+    "description": ""
+  },
+  {
+    "id": 12,
+    "screenshot": "",
+    "code": "https://github.com/CodeSurfer3022/mobile-menu",
+    "live": "",
+    "name": "Mobile menu",
+    "description": ""
+  },
+  {
+    "id": 13,
+    "screenshot": "",
+    "code": "",
+    "live": "",
+    "name": "CV application",
+    "description": ""
+  },
+  {
+    "id": 14,
+    "screenshot": "",
+    "code": "",
+    "live": "",
+    "name": "Pokemon Memory Game",
+    "description": ""
+  },
+  {
+    "id": 15,
+    "screenshot": "",
+    "code": "",
+    "live": "",
+    "name": "Shopping cart",
+    "description": ""
+  },
+  {
+    "id": 16,
+    "screenshot": "",
+    "code": "",
+    "live": "",
+    "name": "Meme generator",
+    "description": ""
+  },
+  {
+    "id": 17,
+    "screenshot": "",
+    "code": "",
+    "live": "",
+    "name": "Giffy",
+    "description": ""
+  },
+  {
+    "id": 18,
+    "screenshot": "",
+    "code": "",
+    "live": "",
+    "name": "Weather",
+    "description": ""
+  },
+  {
+    "id": 19,
+    "screenshot": "",
+    "code": "",
+    "live": "",
+    "name": "Battleship",
+    "description": ""
+  },
+  {
+    "id": 20,
+    "screenshot": "",
+    "code": "",
+    "live": "",
+    "name": "Smashing Heatmap",
+    "description": ""
+  }
+]
