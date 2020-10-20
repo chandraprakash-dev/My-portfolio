@@ -9,6 +9,7 @@ footer {
 
 .projects {
     background: cornsilk;
+    display: flex;
 }
 
 .project-card {
