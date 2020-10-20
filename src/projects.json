@@ -74,8 +74,8 @@
   {
     "id": 10,
     "screenshot": "",
-    "code": "",
-    "live": "",
+    "code": "https://github.com/CodeSurfer3022/dropdown",
+    "live": "https://www.npmjs.com/package/dropdown-odin",
     "name": "Dropdown package",
     "description": ""
   },
@@ -91,72 +91,64 @@
     "id": 12,
     "screenshot": "",
     "code": "https://github.com/CodeSurfer3022/mobile-menu",
-    "live": "",
+    "live": "https://codesurfer3022.github.io/mobile-menu/",
     "name": "Mobile menu",
     "description": ""
   },
   {
     "id": 13,
     "screenshot": "",
-    "code": "",
-    "live": "",
+    "code": "https://github.com/CodeSurfer3022/Cv-application",
+    "live": "https://codesurfer3022.github.io/Cv-application/",
     "name": "CV application",
     "description": ""
   },
   {
     "id": 14,
     "screenshot": "",
-    "code": "",
-    "live": "",
+    "code": "https://github.com/CodeSurfer3022/Memory-Card",
+    "live": "https://codesurfer3022.github.io/Memory-Card/",
     "name": "Pokemon Memory Game",
     "description": ""
   },
   {
     "id": 15,
     "screenshot": "",
-    "code": "",
-    "live": "",
+    "code": "https://github.com/CodeSurfer3022/Shopping-cart",
+    "live": "https://codesurfer3022.github.io/Shopping-cart/",
     "name": "Shopping cart",
     "description": ""
   },
   {
     "id": 16,
     "screenshot": "",
-    "code": "",
-    "live": "",
+    "code": "https://github.com/CodeSurfer3022/Meme-generator",
+    "live": "https://codesurfer3022.github.io/Meme-generator/",
     "name": "Meme generator",
     "description": ""
   },
   {
     "id": 17,
     "screenshot": "",
-    "code": "",
-    "live": "",
+    "code": "https://github.com/CodeSurfer3022/GIFFY",
+    "live": "https://codesurfer3022.github.io/GIFFY/",
     "name": "Giffy",
     "description": ""
   },
   {
     "id": 18,
     "screenshot": "",
-    "code": "",
-    "live": "",
+    "code": "https://github.com/CodeSurfer3022/Weather---React",
+    "live": "https://codesurfer3022.github.io/Weather---React/",
     "name": "Weather",
     "description": ""
   },
   {
     "id": 19,
     "screenshot": "",
-    "code": "",
-    "live": "",
+    "code": "https://github.com/CodeSurfer3022/battleship",
+    "live": "https://codesurfer3022.github.io/battleship/",
     "name": "Battleship",
-    "description": ""
-  },
-  {
-    "id": 20,
-    "screenshot": "",
-    "code": "",
-    "live": "",
-    "name": "Smashing Heatmap",
     "description": ""
   }
 ]
