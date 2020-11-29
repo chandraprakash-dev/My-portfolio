@@ -2,8 +2,8 @@
   {
     "id": 1,
     "screenshot": "",
-    "code": "https://github.com/CodeSurfer3022/Rock-Paper-Scissors",
-    "live": "https://codesurfer3022.github.io/Rock-Paper-Scissors/",
+    "code": "https://github.com/chandraprakash-dev/Rock-Paper-Scissors",
+    "live": "https://chandraprakash-dev.github.io/Rock-Paper-Scissors/",
     "name": "Rock, Paper, Scissors",
     "description": ""
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "screenshot": "",
     "code": "https://github.com/CodeSurfer3022/Etch-a-Sketch",
-    "live": "https://codesurfer3022.github.io/Etch-a-Sketch/",
+    "live": "https://chandraprakash-dev.github.io/Etch-a-Sketch/",
     "name": "Etch-a-Sketch",
     "description": ""
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "screenshot": "",
     "code": "https://github.com/CodeSurfer3022/calculator",
-    "live": "https://codesurfer3022.github.io/calculator/",
+    "live": "https://chandraprakash-dev.github.io/calculator/",
     "name": "Calculator",
     "description": ""
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "screenshot": "",
     "code": "https://github.com/CodeSurfer3022/Pomodoro-timer",
-    "live": "https://codesurfer3022.github.io/Pomodoro-timer/",
+    "live": "https://chandraprakash-dev.github.io/Pomodoro-timer/",
     "name": "Pomodoro",
     "description": ""
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "screenshot": "",
     "code": "https://github.com/CodeSurfer3022/Library-with-Firebase",
-    "live": "https://codesurfer3022.github.io/Library-with-Firebase/",
+    "live": "https://chandraprakash-dev.github.io/Library-with-Firebase/",
     "name": "Library",
     "description": ""
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "screenshot": "",
     "code": "https://github.com/CodeSurfer3022/Tic-Tac-Toe",
-    "live": "https://codesurfer3022.github.io/Tic-Tac-Toe/",
+    "live": "https://chandraprakash-dev.github.io/Tic-Tac-Toe/",
     "name": "Tic Tac Toe",
     "description": ""
   },
@@ -51,7 +51,7 @@
     "id": 7,
     "screenshot": "",
     "code": "https://github.com/CodeSurfer3022/Restaurant-page",
-    "live": "https://codesurfer3022.github.io/Restaurant-page/",
+    "live": "https://chandraprakash-dev.github.io/Restaurant-page/",
     "name": "Restaurant",
     "description": ""
   },
@@ -59,7 +59,7 @@
     "id": 8,
     "screenshot": "",
     "code": "https://github.com/CodeSurfer3022/Todo-list",
-    "live": "https://codesurfer3022.github.io/Todo-list/",
+    "live": "https://chandraprakash-dev.github.io/Todo-list/",
     "name": "Todo list",
     "description": ""
   },
@@ -67,7 +67,7 @@
     "id": 9,
     "screenshot": "",
     "code": "https://github.com/CodeSurfer3022/Image-slider",
-    "live": "https://codesurfer3022.github.io/Image-slider/",
+    "live": "https://chandraprakash-dev.github.io/Image-slider/",
     "name": "Carousel",
     "description": ""
   },
@@ -91,7 +91,7 @@
     "id": 12,
     "screenshot": "",
     "code": "https://github.com/CodeSurfer3022/mobile-menu",
-    "live": "https://codesurfer3022.github.io/mobile-menu/",
+    "live": "https://chandraprakash-dev.github.io/mobile-menu/",
     "name": "Mobile menu",
     "description": ""
   },
@@ -99,7 +99,7 @@
     "id": 13,
     "screenshot": "",
     "code": "https://github.com/CodeSurfer3022/Cv-application",
-    "live": "https://codesurfer3022.github.io/Cv-application/",
+    "live": "https://chandraprakash-dev.github.io/Cv-application/",
     "name": "CV application",
     "description": ""
   },
@@ -107,7 +107,7 @@
     "id": 14,
     "screenshot": "",
     "code": "https://github.com/CodeSurfer3022/Memory-Card",
-    "live": "https://codesurfer3022.github.io/Memory-Card/",
+    "live": "https://chandraprakash-dev.github.io/Memory-Card/",
     "name": "Pokemon Memory Game",
     "description": ""
   },
@@ -115,7 +115,7 @@
     "id": 15,
     "screenshot": "",
     "code": "https://github.com/CodeSurfer3022/Shopping-cart",
-    "live": "https://codesurfer3022.github.io/Shopping-cart/",
+    "live": "https://chandraprakash-dev.github.io/Shopping-cart/",
     "name": "Shopping cart",
     "description": ""
   },
@@ -123,7 +123,7 @@
     "id": 16,
     "screenshot": "",
     "code": "https://github.com/CodeSurfer3022/Meme-generator",
-    "live": "https://codesurfer3022.github.io/Meme-generator/",
+    "live": "https://chandraprakash-dev.github.io/Meme-generator/",
     "name": "Meme generator",
     "description": ""
   },
@@ -131,7 +131,7 @@
     "id": 17,
     "screenshot": "",
     "code": "https://github.com/CodeSurfer3022/GIFFY",
-    "live": "https://codesurfer3022.github.io/GIFFY/",
+    "live": "https://chandraprakash-dev.github.io/GIFFY/",
     "name": "Giffy",
     "description": ""
   },
@@ -139,7 +139,7 @@
     "id": 18,
     "screenshot": "",
     "code": "https://github.com/CodeSurfer3022/Weather",
-    "live": "https://codesurfer3022.github.io/Weather/",
+    "live": "https://chandraprakash-dev.github.io/Weather/",
     "name": "Weather",
     "description": ""
   },
@@ -147,7 +147,15 @@
     "id": 19,
     "screenshot": "",
     "code": "https://github.com/CodeSurfer3022/battleship",
-    "live": "https://codesurfer3022.github.io/battleship/",
+    "live": "https://chandraprakash-dev.github.io/battleship/",
+    "name": "Battleship",
+    "description": ""
+  },
+  {
+    "id": 20,
+    "screenshot": "",
+    "code": "https://github.com/chandraprakash-dev/My-portfolio",
+    "live": "https://chandraprakash-dev.github.io/My-portfolio//",
     "name": "Battleship",
     "description": ""
   }
