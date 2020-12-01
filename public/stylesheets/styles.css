@@ -1,25 +1,47 @@
+body {
+    font-family: Helvetica;
+}
+
+#root {
+    width: 1000px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
 header {
     background: #000375;
     color: white;
     text-align: center;
 }
 
+i {
+    margin: 10px;
+}
+
+.social a:visited {
+    color: white;
+}
+
 footer {
-    background: blueviolet;
+    background: #000375;
+    text-align: center;
+    color: white;
+    padding: 10px;
 }
 
 .projects {
-    background: cornsilk;
-    display: flex;
-    flex-wrap: wrap;
-    flex: 0 0 25%;
-    justify-content: center;
+    background: ghostwhite;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(5, 1fr);
 }
 
 .project-card {
-    background: darksalmon;
     display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     margin: 10px;
-    flex-basis: 20%;
-    height: 200px;
+    background: white;
 }
