@@ -1,3 +1,3 @@
 # My portfolio
 
-Visit my portfolio here: https://codesurfer3022.github.io/My-portfolio/
+Visit my portfolio here: https://chandraprakash-dev.github.io/My-portfolio/
