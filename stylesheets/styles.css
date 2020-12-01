@@ -1,0 +1,25 @@
+header {
+    background: #000375;
+    color: white;
+    text-align: center;
+}
+
+footer {
+    background: blueviolet;
+}
+
+.projects {
+    background: cornsilk;
+    display: flex;
+    flex-wrap: wrap;
+    flex: 0 0 25%;
+    justify-content: center;
+}
+
+.project-card {
+    background: darksalmon;
+    display: flex;
+    margin: 10px;
+    flex-basis: 20%;
+    height: 200px;
+}
